@@ -4,8 +4,6 @@
 
 #### By _**Bill Klinkow**_
 
-## Description
-
 ## Setup/Installation Requirements
 
 * _Click html file and enjoy_
